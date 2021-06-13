@@ -22,9 +22,9 @@
 - Access of AD is Roles
 - Access of Subcription is RBAC (Role Base Access Control)
   
---- 
-AAD roles 
-    Root
+## Subscription 
+
+
 
 ## Pricing Policy 
 
