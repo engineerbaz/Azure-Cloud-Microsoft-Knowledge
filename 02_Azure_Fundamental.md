@@ -46,11 +46,11 @@
   - Like MCT
 
 ### Organizational Structure 
-- Management Group 
-- Subcriptions
-- Resource Group
+- Management Group (Like company, logical division of Subcription)
+- Subcriptions (Account)
+- Resource Group (like dept logical container)
 - Resources
-
+ Access permission is inheirted 
 
 ## Planning & Managing 
 - Type of Customers 
