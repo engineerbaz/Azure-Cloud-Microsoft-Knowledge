@@ -15,7 +15,7 @@
 ### Authentication & Authorization
 
 ### AAD Roles 
-- Azure Active Directory 
+- Azure Active Directory (AAD)
 
 
 --
@@ -27,7 +27,7 @@ AAD roles
     Root
 
 ## Pricing Policy 
-
+### Subcription Boundry
 - Billing 
   - As per costing wise division
 - Business
