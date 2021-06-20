@@ -1,6 +1,3 @@
-=======
--- CLASS 02 --
-=======
 # Azure Fundamentals
 
 ## As A Service Offerings 
